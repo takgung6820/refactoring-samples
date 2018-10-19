@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CallerSwap/CallerSwap.iml" filepath="$PROJECT_DIR$/CallerSwap/CallerSwap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CleanCode/CleanCode.iml" filepath="$PROJECT_DIR$/CleanCode/CleanCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrdersWriter/OrdersWriter.iml" filepath="$PROJECT_DIR$/OrdersWriter/OrdersWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smellections/Smellections.iml" filepath="$PROJECT_DIR$/Smellections/Smellections.iml" />
+    </modules>
+  </component>
+</project>
